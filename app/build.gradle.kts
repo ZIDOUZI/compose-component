@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "zdz.library.compose"
+    namespace = "zdz.libs.compose"
     compileSdk = 32
 
     defaultConfig {

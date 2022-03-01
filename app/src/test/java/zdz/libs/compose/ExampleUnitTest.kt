@@ -1,4 +1,4 @@
-package zdz.library.compose
+package zdz.libs.compose
 
 import org.junit.Test
 

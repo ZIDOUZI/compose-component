@@ -1,6 +1,6 @@
 @file:Suppress("unused")
 
-package zdz.library.compose.theme
+package zdz.libs.compose.theme
 
 import androidx.compose.ui.graphics.Color
 
